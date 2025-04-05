@@ -1,8 +1,4 @@
 ﻿# USM-Console-Based
-Here’s a clean and professional **README description** for a **University System Management** project to upload on GitHub:
-
----
-
 🎓 University System Management
 
 This is a comprehensive **University System Management** project designed to streamline and automate university operations. The system manages key aspects such as student enrollment, course allocation, faculty assignments, exam scheduling, grading, and administrative reporting.
